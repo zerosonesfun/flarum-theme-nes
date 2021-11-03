@@ -24,4 +24,4 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/zerosonesfun/flarum-theme-nes)
 - [GitHub](https://github.com/zerosonesfun/flarum-theme-nes)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [Me](https://www.wilcosky.com)
