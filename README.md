@@ -1,4 +1,4 @@
-# nes Theme
+# nes theme
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/zerosonesfun/flarum-theme-nes.svg)](https://packagist.org/packages/zerosonesfun/flarum-theme-nes) [![Total Downloads](https://img.shields.io/packagist/dt/zerosonesfun/flarum-theme-nes.svg)](https://packagist.org/packages/zerosonesfun/flarum-theme-nes)
 
